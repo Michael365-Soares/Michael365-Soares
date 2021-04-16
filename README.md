@@ -12,7 +12,7 @@
   <body>
       <div class="container">
       <div class="media">
-          <img class="Michael365-Soares\img\20181003_090259.jpg" alt="Aprender é viver!!!">
+          <img src="Michael365-Soares\img\20181003_090259.jpg" alt="Aprender é viver!!!">
         <div class="media-body">
             <h1>Olá, mundo!Sejam bem vindos!!!</h1>
             <h2>Aqui estão alguns dos meus conhecimentos<h2>
