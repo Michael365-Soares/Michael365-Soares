@@ -13,7 +13,7 @@
       <div class="container">
       <div class="media">
           <img src="img\20181003_090259.jpg" alt="Aprender é viver!!!">
-        <div class="media-body">
+      <div class="media-body">
             <h1>Olá, mundo!Sejam bem vindos!!!</h1>
             <h2>Aqui estão alguns dos meus conhecimentos<h2>
         </div>
@@ -31,8 +31,6 @@
           <div class="col">
                 <nav class="nav flex-column">
                   <a class="nav-link active" href="https://github.com/Michael365-Soares/Michael365-Soares/app_super_frota">Projeto de crição de aplicação de gestão                                 financeira</a>
-                  <a class="nav-link" href="#">Link</a>
-                  <a class="nav-link" href="#">Link</a>
                </nav>
           </div>
           <div class="w-100"></div>
