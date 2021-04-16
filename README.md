@@ -17,6 +17,11 @@
             <h1>Olá, mundo!Sejam bem vindos!!!</h1>
             <h2>Aqui estão alguns dos meus conhecimentos<h2>
         </div>
+        <div class="row">
+          <div class="col">col</div>
+          <div class="col">col</div>
+          <div class="w-100"></div>
+      </div>
       </div>
       </div>
   </body>
