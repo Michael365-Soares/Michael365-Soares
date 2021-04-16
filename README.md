@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+           #Seja bem vindo
+    ##Michael Soares
+**Meus conehcimentos básicos ao intermediário**
+1.PHP OO
+2.FRAMEWORK LARAVEL
+3.SGBD MYSQL
+4.HTML 5 e CSS3
+5.JAVASCRIPT
