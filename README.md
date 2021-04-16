@@ -28,12 +28,13 @@
               <li class="list-group-item">FRAMEWORK LARAVEL</li>
             </ul>
           </div>
-          <div class="col">col</div>
-               <nav class="nav flex-column">
+          <div class="col">
+                <nav class="nav flex-column">
                   <a class="nav-link active" href="https://github.com/Michael365-Soares/Michael365-Soares/app_super_frota">Projeto de crição de aplicação de gestão                                 financeira</a>
                   <a class="nav-link" href="#">Link</a>
                   <a class="nav-link" href="#">Link</a>
                </nav>
+          </div>
           <div class="w-100"></div>
       </div>
       </div>
