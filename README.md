@@ -1,24 +1,9 @@
-### Hi there 👋
 
-<!--
-**Michael365-Soares/Michael365-Soares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-           #Seja bem vindo
-    ##Michael Soares
-**Meus conehcimentos básicos ao intermediário**
-1.PHP OO
-2.FRAMEWORK LARAVEL
-3.SGBD MYSQL
-4.HTML 5 e CSS3
-5.JAVASCRIPT
+   <h1>Olá sejam bem vindos!!!</h1>
+          <h2>Estes são os meus conhecimentos</h3>
+          <table>
+               <tr>
+                   <th>PHP<th>
+                   <th>HTML<th>
+               <tr>          
+           <table>
