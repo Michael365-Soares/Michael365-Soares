@@ -30,7 +30,7 @@
           </div>
           <div class="col">col</div>
                <nav class="nav flex-column">
-                  <a class="nav-link active" href="#">Ativo</a>
+                  <a class="nav-link active" href="https://gitgub.com/Michael365-Soares/app_super_frota.git">Projeto de crição de aplicação de gestão financeira</a>
                   <a class="nav-link" href="#">Link</a>
                   <a class="nav-link" href="#">Link</a>
                </nav>
