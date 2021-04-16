@@ -18,7 +18,16 @@
             <h2>Aqui estão alguns dos meus conhecimentos<h2>
         </div>
         <div class="row">
-          <div class="col">col</div>
+          <div class="col">
+            <ul class="list-group">
+              <li class="list-group-item active">Conhecimentos</li>
+              <li class="list-group-item">PHP 7.0</li>
+              <li class="list-group-item">HTML/CSS</li>
+              <li class="list-group-item">JAVASCRIPT FUNDAMENTOS BÁSICOS</li>
+              <li class="list-group-item">SGBD MYSQL</li>
+              <li class="list-group-item">FRAMEWORK LARAVEL</li>
+            </ul>
+          </div>
           <div class="col">col</div>
           <div class="w-100"></div>
       </div>
