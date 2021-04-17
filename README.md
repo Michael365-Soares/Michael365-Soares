@@ -1,5 +1,10 @@
-#Olá seja bem vindo!!!
-##Estes são os meus conhecimentos:
+[OLÁ!] ()  
+# Olá seja bem vindo!!!  
+## Estes são os meus conhecimentos:
 
-*PHP
-![Olá!!!](https://github.com/Michael365-Soares/Michael365-Soares/blob/main/20181003_090259.jpg)
+* PHP
+* HTML/CSS
+* JAVASCRIPT
+* LARAVEL
+* SGBD MYSQL
+
