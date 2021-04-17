@@ -28,22 +28,21 @@
               <li class="list-group-item">FRAMEWORK LARAVEL</li>
             </ul>
           </div>
-          <div class="col">                      
-              <div class="pos-f-t">
-                <div class="collapse" id="navbarToggleExternalContent">
-                  <div class="bg-dark p-4">
-                    <h5 class="text-white h4">Projetos</h5>
-                    <span class="text-muted">
-                       <a class="nav-link active" href="https://github.com/Michael365-Soares/Michael365-Soares/app_super_frota">Projeto de crição de aplicação de gestão<a>     
-                    </span>
-                  </div>
+          <div class="col">  
+          <div class="pos-f-t">
+              <div class="collapse" id="navbarToggleExternalContent">
+                <div class="bg-dark p-4">
+                  <h5 class="text-white h4">Conteúdo expandido</h5>
+                  <span class="text-muted">Expansível, atráves da marca no navbar.</span>
                 </div>
-                <nav class="navbar navbar-dark bg-dark">
-                  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent"                       aria-expanded="false" aria-label="Alterna navegação">
-                    <span class="navbar-toggler-icon"></span>
-                  </button>
-                </nav>
               </div>
+             <nav class="navbar navbar-dark bg-dark">
+             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-                  expanded="false" aria-label="Alterna navegação">
+             <span class="navbar-toggler-icon"></span>
+             </button>
+            </nav>
+        </div>
+        </div>   
       </div>
       </div>
       </div>
