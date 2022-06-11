@@ -3,11 +3,11 @@
 # Olá seja bem vindo!!!  
 ## Estes são os meus conhecimentos:
 
-* PHP
+* Java 8
 * HTML/CSS
 * JAVASCRIPT
-* LARAVEL
+* JPA HIBERNATE
 * SGBD MYSQL  
 
 ### **AQUI ESTÃO ALGUNS DOS PROJETOS QUE TRABALHO ATUALMENTE**  
-1. [APP_GESTAO_FINANCEIRA](https://github.com/Michael365-Soares/APP_GESTAO_FINANCEIRA)
+1. [APP_GESTAO_FINANCEIRA](https://github.com/Michael365-Soares/)
