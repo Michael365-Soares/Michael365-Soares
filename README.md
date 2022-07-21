@@ -11,4 +11,4 @@
 
 ### **AQUI ESTÃO ALGUNS DOS PROJETOS QUE TRABALHO ATUALMENTE**  
 1. [SELEÇÃO DE POLTRONAS](https://github.com/Michael365-Soares/seleciona_poltronas.git)
-1. [SELEÇÃO DE POLTRONAS](https://github.com/Michael365-Soares/.git)
+1. [CONSUMINDO API DO IMDB](https://github.com/Michael365-Soares/consumindo_api_imdb)
